@@ -1,8 +1,6 @@
-# Practical Python Programming for IoT
 
-## Chapter 6 - Electronics 101 for the Software Engineer
 
-* `requirements.txt` - Python dependencies required for this chapter
+* `requirements.txt` - Python dependencies required 
 
 * `digital_input_test.py` - Test digital input
 
@@ -10,4 +8,3 @@
 
 * `analog_pwm_output_test.py` - Create PWM output signal
 
-* `logic_level_input_breadboard.png` - Reference Breadboard Layout for the chapter's DIY exercise
