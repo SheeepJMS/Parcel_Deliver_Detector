@@ -1,5 +1,4 @@
 """
-File: chapter14/tree_api_service/servo_controller.py
 
 Receives and processes PyPubSub messages for controlling Servo.
 
