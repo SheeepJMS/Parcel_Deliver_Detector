@@ -28,9 +28,9 @@ After writing data to the database, we need to create a small web service that c
 
 Open control.db in SQLite and run the following query:
 
-CREATE TABLE Parcel (ID INTEGER PRIMARY KEY AUTOINCREMENT, RoomIDINTEGER, 
+  CREATE TABLE Parcel (ID INTEGER PRIMARY KEY AUTOINCREMENT, RoomIDINTEGER, 
 DatetimeDATETIME, FOREIGN KEY(RoomID) REFERENCES RoomDetails(ID));
 
 
 Start the web service by running this expression:
-pythonwebservice.py&
+  pythonwebservice.py&
